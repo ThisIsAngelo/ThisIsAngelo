@@ -7,8 +7,6 @@
 <br/>
 
 <div align="center">
- 
- 🌱 I’m currently learning *Next.js, Redux*
 
 💬 Ask me about *Next.js, React, Tailwind*
 
