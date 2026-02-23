@@ -5,20 +5,12 @@
 <h3 align="center">A Website Development Enthusiast from Indonesia</h3>
 
 <br/>
-
-<div align="center">
-
-💬 Ask me about *Next.js, React, Tailwind*
-
-⚡ Fun fact *Kafka is the best character in Honkai: Star Rail*
-
- </div>
  
 <div align="center"> 
   <a href="mailto:christianangelowork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.instagram.com/this_is_chrissss" target="_blank">
+  <a href="https://www.instagram.com/this_is_angelooo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-DC3755?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.tiktok.com/@thisisangelo" target="_blank">
